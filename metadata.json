@@ -1,0 +1,6 @@
+{
+  "name": "Noida Prime Property",
+  "description": "Looking for open land in Sector 62, Noida? Noida Prime Property helps you explore available land and plot options for investment and real estate opportunities with professional property assistance.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
