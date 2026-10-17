@@ -20,6 +20,9 @@ export const metadata: Metadata = {
     title: 'Open Land in Sector 62 Noida | Noida Prime Property',
     description: 'Looking for open land in Sector 62, Noida? Noida Prime Property helps you explore available land and plot options for investment and real estate opportunities with professional property assistance.',
   },
+  verification: {
+    google: 'ZS7Ji6uzAvCK4ZWV-kfNVwciVcpp0w9o9JPaGPKRc4Q',
+  },
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {
