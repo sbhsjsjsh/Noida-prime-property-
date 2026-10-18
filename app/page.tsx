@@ -3,6 +3,7 @@ import { Hero } from '@/components/Hero';
 import { Properties } from '@/components/Properties';
 import { LeadForm } from '@/components/LeadForm';
 import { Footer } from '@/components/Footer';
+import Link from 'next/link';
 
 export default function Home() {
   return (
@@ -61,7 +62,7 @@ export default function Home() {
                     <div>
                       <h4 className="text-xl font-bold text-slate-900 mb-2">Market Intelligence</h4>
                       <p className="text-slate-600 leading-relaxed">
-                        We provide data-driven insights into upcoming sectors, infrastructure developments (like the Jewar Airport), and investment hotspots.
+                        We provide data-driven insights into upcoming sectors, infrastructure developments (like the Jewar Airport), and investment hotspots. Explore specialized opportunities like <Link href="/open-plot-in-noida-sector-62" className="text-slate-900 font-bold underline decoration-slate-200 underline-offset-4 hover:decoration-slate-900 transition-all">open plots in Sector 62</Link> for premium investment.
                       </p>
                     </div>
                   </div>
